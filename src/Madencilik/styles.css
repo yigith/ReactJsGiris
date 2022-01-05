@@ -1,0 +1,29 @@
+.Madencilik {
+    background-color: rgb(250, 248, 215);
+    border: 3px solid gold;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+
+.Madencilik h2 { 
+    margin-top: .1rem;
+    color: darkgoldenrod;
+}
+
+.madenciler > * {
+    margin-right: .5rem;
+}
+
+.ozet {
+    margin-top: 1rem;
+    border-top: 5px solid rgb(255, 238, 144);
+    border-bottom: 5px solid rgb(255, 238, 144);
+    background-color: rgba(251, 163, 0, 0.9);
+    padding: 6px 3px;
+    color: rgba(255, 255, 255, .8);
+}
+
+.toplam {
+    font-weight: bold;
+}
